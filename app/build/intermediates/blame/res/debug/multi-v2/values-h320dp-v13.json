@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/arminmehran/AndroidStudioProjects/diva-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/arminmehran/.gradle/caches/transforms-2/files-2.1/c80068121c0c2de2846a1ae914854f10/appcompat-v7-23.1.0/res/values-h320dp/values-h320dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "289",
+                        "endColumns": "57",
+                        "endOffsets": "342"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
